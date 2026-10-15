@@ -1,45 +1,41 @@
-# 👋 Hi, I'm Omar Gomaa
+# Omar Ali
 
-## 💫 About Me
+### Data Engineering · Analytics Engineering
 
-🔭 I'm currently working on\
-Building scalable data platforms, modern ETL pipelines, and analytics
-engineering solutions.
+Building reliable data systems that turn raw data into structured, trusted, and analytics-ready information.
 
-👯 I'm looking to collaborate on\
-Data Engineering, Analytics Engineering, and Open Source data projects.
+## About Me
 
-🤝 I'm looking for help with\
-Distributed Data Processing, Cloud Data Platforms, and Real-world Data
-Pipelines.
+I started my journey in data analytics, working with SQL, Python, Power BI, and data visualization to understand data and turn it into useful business insights.
 
-🌱 I'm currently learning\
-dbt, Apache Spark, Apache Airflow, Azure Data Engineering, and the
-Modern Data Stack.
+I'm now transitioning deeper into Data Engineering — focusing on how data is ingested, transformed, modeled, tested, and delivered reliably across modern data platforms.
 
-💬 Ask me about\
-SQL, Python, Power BI, Data Warehousing, ETL, Data Modeling, and Data
-Analytics.
+My goal is to combine my analytics foundation with strong engineering practices to build data systems that are reliable, maintainable, and ready for real-world use.
 
-⚡ Fun fact\
-I enjoy transforming raw data into scalable, business-ready solutions.
+## Core Skills
 
-## 🌐 Connect with Me
+**Programming & Querying**  
+Python · SQL · Pandas
 
--   LinkedIn: https://www.linkedin.com/in/eng-omargomaa
--   Email: omar.ali.gomaa.2222@gmail.com
+**Data & Modeling**  
+ETL / ELT · Data Warehousing · Dimensional Modeling · Data Quality
 
-## 🛠️ Tech Stack
+**Databases**  
+SQL Server · MySQL
 
-**Languages** - Python - SQL - Bash - Markdown
+**Analytics**  
+Power BI · Excel · Power Query · Data Visualization · KPI Development
 
-**Cloud** - Microsoft Azure - AWS
+**Development Tools**  
+Git · GitHub
 
-**Data Engineering** - Apache Spark - Apache Airflow - Apache Kafka -
-Apache Hadoop - dbt - Jinja
+## Current Focus
 
-**Databases** - Microsoft SQL Server - MySQL - PostgreSQL
+Currently building deeper hands-on experience in modern Data Engineering through practical projects covering:
 
-**Analytics** - Power BI - Pandas - NumPy - Matplotlib
+SSIS · dbt · Apache Spark · PySpark · Apache Kafka · Apache Airflow · Azure · Databricks · Docker · CI/CD
 
-**Tools** - Git - GitHub - Docker - Postman - Anaconda - VS Code
+## Connect
+
+**LinkedIn:** https://www.linkedin.com/in/eng-omargomaa  
+**Email:** omar.ali.goma.11@gmail.com
